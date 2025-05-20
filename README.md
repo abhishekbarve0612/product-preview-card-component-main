@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/abhishekbarve0612/product-preview-card-component-main)
-- Live Site URL: [Add live site URL here](https://abhishekbarve0612.github.io/product-preview-card-component-main/)
+- Solution URL: [Git Repo](https://github.com/abhishekbarve0612/product-preview-card-component-main)
+- Live Site URL: [Github Page](https://abhishekbarve0612.github.io/product-preview-card-component-main/)
 
 ## My process
 
