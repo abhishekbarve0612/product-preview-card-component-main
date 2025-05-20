@@ -64,7 +64,7 @@ img {
     border-radius: 0 0 var(--spacing-100) var(--spacing-100);
 }
 
-.content > h3 {
+.content > h2 {
     text-transform: uppercase;
     font: var(--text-preset-4);
     letter-spacing: 5px;
@@ -94,7 +94,7 @@ img {
     color: var(--green500);
 }
 
-.price > h3 {
+.price > h2 {
     font: var(--text-preset-5);
     color: var(--grey);
     text-decoration: line-through;
